@@ -7,10 +7,10 @@
 ## Blog
 
 Latest entries:
+- [Rust Iterators: Fibonacci series (2020-12-01)](https://edgarluque.com/blog/rust-iterator-fibonacci)
 - [Code conventions in DDraceNetwork (2020-11-28)](https://edgarluque.com/blog/code-conventions-in-ddnet)
 - [Creating precompiled headers with cmake (2020-11-12)](https://edgarluque.com/blog/cmake-precompiled-headers)
 - [What's new in Python 3.9 (2020-11-10)](https://edgarluque.com/blog/whats-new-in-python-3.9)
-- [Modernize your linux workflow with Rust (2020-11-06)](https://edgarluque.com/blog/modernize-your-tools)
 
 ## Stats
 
