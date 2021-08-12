@@ -7,3 +7,7 @@
 ## Stats
 
 ![Edgar's github stats](https://github-readme-stats.vercel.app/api?username=edg-l&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+## Interesting Stuff
+
+https://www.conventionalcommits.org
