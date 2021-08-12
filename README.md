@@ -10,4 +10,4 @@
 
 ## Interesting Stuff
 
-https://www.conventionalcommits.org
+- [git-cliff](https://github.com/orhun/git-cliff) with  [conventionalcommits](https://www.conventionalcommits.org)
