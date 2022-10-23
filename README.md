@@ -1,8 +1,6 @@
 ## Links
 
-- Website: https://edgarluque.com/
-- Blog: https://edgarluque.com/blog/
-- Twitter: https://twitter.com/edgluq
+- Website / blog: https://edgarluque.com/
 
 ## Stats
 
