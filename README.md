@@ -4,6 +4,12 @@
 
 - Website / blog: https://edgarluque.com/
 
+## Blog
+Latest entries:
+
+- 2023-11-27: [Intro to LLVM and MLIR with Rust and Melior](https://edgarluque.com/blog/mlir-with-rust/)
+- 2023-07-10: [Implementing a simple Hashmap in Rust](https://edgarluque.com/blog/rust-hashmap/)
+
 ## Good Reads
 
 ```
