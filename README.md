@@ -1,5 +1,7 @@
 > Now i am become Rust, Destroyer of Unsafe code
 
+If you like what I do consider [sponsoring](https://github.com/sponsors/edg-l) me.
+
 ## Links
 
 - Website / blog: https://edgarluque.com/
