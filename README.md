@@ -4,13 +4,13 @@ If you like what I do consider [sponsoring](https://github.com/sponsors/edg-l) (
 
 ## Links
 
-- Website / blog: https://edgarluque.com/
+- Website / blog: https://edgl.dev/
 
 ## Blog
 Latest entries:
 
-- 2023-11-27: [Intro to LLVM and MLIR with Rust and Melior](https://edgarluque.com/blog/mlir-with-rust/)
-- 2023-07-10: [Implementing a simple Hashmap in Rust](https://edgarluque.com/blog/rust-hashmap/)
+- 2023-11-27: [Intro to LLVM and MLIR with Rust and Melior](https://edgl.dev/blog/mlir-with-rust/)
+- 2023-07-10: [Implementing a simple Hashmap in Rust](https://edgl.dev/blog/rust-hashmap/)
 
 ## Good Reads
 
