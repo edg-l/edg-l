@@ -9,6 +9,7 @@ If you like what I do consider [sponsoring](https://github.com/sponsors/edg-l) (
 ## Blog
 Latest entries:
 
+- 2024-07-01 - [Rust Generic Function Size Trick](https://edgl.dev/blog/rust-fn-size-trick/)
 - 2023-11-27: [Intro to LLVM and MLIR with Rust and Melior](https://edgl.dev/blog/mlir-with-rust/)
 - 2023-07-10: [Implementing a simple Hashmap in Rust](https://edgl.dev/blog/rust-hashmap/)
 
