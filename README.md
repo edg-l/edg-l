@@ -36,3 +36,4 @@ Latest entries:
 - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) by Eric Steven Raymond (hackers as in builders)
 - [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann
 - [Just for Fun. No, Really](https://justforfunnoreally.dev/)
+- <https://www.hardmo.de/article/2021-03-14-zst-proof-types.md>
