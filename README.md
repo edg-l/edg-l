@@ -38,3 +38,4 @@ Latest entries:
 - [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann
 - [Just for Fun. No, Really](https://justforfunnoreally.dev/)
 - <https://www.hardmo.de/article/2021-03-14-zst-proof-types.md>
+- [AMD64 Architecture Programmer's Manual Volume 2: System Programming](https://docs.amd.com/v/u/en-US/24593_3.43)
