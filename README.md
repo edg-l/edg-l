@@ -1,6 +1,6 @@
 > Now i am become Rust, Destroyer of Unsafe code
 
-Software developer based in Barcelona. I work on kernels, compilers, and ML infrastructure, mostly in Rust.
+Software developer based in Barcelona. I work on kernels, compilers, and others, mostly in Rust.
 
 If you like what I do consider [sponsoring](https://github.com/sponsors/edg-l) (or on [liberapay](https://liberapay.com/edgl/donate)) me.
 
