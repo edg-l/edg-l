@@ -17,7 +17,7 @@ If you like what I do consider [sponsoring](https://github.com/sponsors/edg-l) (
 
 Latest entries from [edgl.dev](https://edgl.dev/):
 
-- 2026-03-10: [New Programming Languages Have an AI Problem](https://edgl.dev/blog/new-programming-languages-have-an-ai-problem/)
+- 2026-03-10: [New Programming Languages Have an AI Problem](https://edgl.dev/blog/ai-language-adoption/)
 - 2025-08-30: [Creating an x86_64 kernel in Rust: Part 2](https://edgl.dev/blog/creating-a-kernel-part-2/)
 - 2025-08-28: [Creating an x86_64 kernel in Rust: Part 1](https://edgl.dev/blog/creating-a-kernel/)
 - 2024-07-01: [Rust Generic Function Size Trick](https://edgl.dev/blog/rust-fn-size-trick/)
