@@ -6,6 +6,8 @@ If you like what I do consider [sponsoring](https://github.com/sponsors/edg-l) (
 
 ## Projects
 
+- [**edos**](https://github.com/edg-l/edos): Hobby x86_64 operating system written from scratch in Rust, with an SMP kernel, its own filesystem, TCP/IP and USB stacks, and a window manager ([edos.edgl.dev](https://edos.edgl.dev))
+- [**blitz**](https://github.com/edg-l/blitz): Compiler backend for x86-64 that does optimization and instruction selection in a single e-graph
 - [**homura**](https://github.com/edg-l/homura): Rust ML inference framework built on MLIR
 - [**edlang**](https://github.com/edg-l/edlang): Experimental statically-typed compiled language made with LLVM and Rust
 - [**melior**](https://github.com/raviqqe/melior): Rustic MLIR bindings in Rust
@@ -17,11 +19,11 @@ If you like what I do consider [sponsoring](https://github.com/sponsors/edg-l) (
 
 Latest entries from [edgl.dev](https://edgl.dev/):
 
+- 2026-08-10: [Creating an x86_64 kernel in Rust: Part 4](https://edgl.dev/blog/creating-a-kernel-p4/)
+- 2026-08-10: [Creating an x86_64 kernel in Rust: Part 3](https://edgl.dev/blog/creating-a-kernel-p3/)
+- 2026-05-23: [How Block Access Lists are implemented in ethrex](https://edgl.dev/blog/bal-in-ethrex/)
 - 2026-03-10: [New Programming Languages Have an AI Problem](https://edgl.dev/blog/ai-language-adoption/)
-- 2025-08-30: [Creating an x86_64 kernel in Rust: Part 2](https://edgl.dev/blog/creating-a-kernel-part-2/)
-- 2025-08-28: [Creating an x86_64 kernel in Rust: Part 1](https://edgl.dev/blog/creating-a-kernel/)
-- 2024-07-01: [Rust Generic Function Size Trick](https://edgl.dev/blog/rust-fn-size-trick/)
-- 2023-11-27: [Intro to LLVM and MLIR with Rust and Melior](https://edgl.dev/blog/mlir-with-rust/)
+- 2025-08-30: [Creating an x86_64 kernel in Rust: Part 2](https://edgl.dev/blog/creating-a-kernel-p2/)
 
 <details>
 <summary>Good Reads</summary>
