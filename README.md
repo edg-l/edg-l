@@ -2,9 +2,7 @@
 
 Software developer based near Barcelona. I work on kernels, compilers, and others, mostly in Rust.
 
-If you like what I do consider [sponsoring](https://github.com/sponsors/edg-l) (or on [liberapay](https://liberapay.com/edgl/donate)) me.
-
-## Projects
+## Side Projects
 
 - [**edos**](https://github.com/edg-l/edos): Hobby x86_64 operating system written from scratch in Rust, with an SMP kernel, its own filesystem, TCP/IP and USB stacks, and a window manager ([edos.edgl.dev](https://edos.edgl.dev))
 - [**blitz**](https://github.com/edg-l/blitz): Compiler backend for x86-64 that does optimization and instruction selection in a single e-graph
