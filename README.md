@@ -1,4 +1,6 @@
-Rust systems engineer near Barcelona, Spain. Worked on Ethereum execution clients, compilers and more low level code. Open to Rust roles
+Rust systems engineer near Barcelona, Spain. Worked on Ethereum execution clients, compilers and more low level code. 
+
+Open to Rust roles
 
 ## Side Projects
 
