@@ -1,17 +1,47 @@
-Rust systems engineer near Barcelona, Spain. Worked on Ethereum execution clients, compilers and more low level code. 
+Rust systems engineer near Barcelona, Spain. Worked on Ethereum execution
+clients, compilers and more low level code.
 
-Open to Rust roles
+Open to Rust roles.
+
+## Work
+
+- [**ethrex**](https://github.com/lambdaclass/ethrex) - Ethereum execution client
+  in Rust. *LambdaClass, 2025-2026.* Implemented EIP-7928 block-level access
+  lists end to end: spec, peer exchange over `eth/71`, parallel execution and
+  metrics. Shipped Glamsterdam and Hegotá fork support, tested on cross-client
+  devnets. Most of my time went to performance on LEVM and the state layer:
+  opcode dispatch, parallel merkleization, batched storage reads.
+  [Writeup](https://edgl.dev/blog/bal-in-ethrex/)
+- [**cairo_native**](https://github.com/starkware-libs/cairo_native) - Compiler
+  from Cairo's Sierra IR to MLIR, for Starknet contracts. *LambdaClass,
+  2022-2025.* Built it; it replaced the existing interpreter.
+- [**concrete**](https://github.com/lambdaclass/concrete) - Systems language
+  built on LLVM and MLIR. *LambdaClass.*
+
+## Maintaining
+
+- [**melior**](https://github.com/mlir-rs/melior) - Rustic MLIR bindings in Rust.
 
 ## Side Projects
 
-- [**edos**](https://github.com/edg-l/edos): Hobby x86_64 operating system written from scratch in Rust, with an SMP kernel, its own filesystem, TCP/IP and USB stacks, and a window manager ([edos.edgl.dev](https://edos.edgl.dev))
-- [**blitz**](https://github.com/edg-l/blitz): Compiler backend for x86-64 that does optimization and instruction selection in a single e-graph
-- [**homura**](https://github.com/edg-l/homura): Rust ML inference framework built on MLIR
-- [**edlang**](https://github.com/edg-l/edlang): Experimental statically-typed compiled language made with LLVM and Rust
-- [**melior**](https://github.com/raviqqe/melior): Rustic MLIR bindings in Rust
-- [**concrete**](https://github.com/lambdaclass/concrete): A programming language crafted for scalable, reliable systems
-- [**ddnet**](https://github.com/ddnet/ddnet): DDraceNetwork, a free cooperative platformer game
-- [**ethrex**](https://github.com/lambdaclass/ethrex): Minimalist, modular Ethereum protocol implementation in Rust (L1 & L2 execution client)
+- [**edos**](https://github.com/edg-l/edos): Hobby x86_64 operating system written
+  from scratch in Rust, with an SMP kernel, its own filesystem, TCP/IP and USB
+  stacks, and a window manager ([edos.edgl.dev](https://edos.edgl.dev))
+- [**blitz**](https://github.com/edg-l/blitz): Compiler backend for x86-64 that
+  does optimization and instruction selection in a single e-graph
+- [**edlang**](https://github.com/edg-l/edlang): Experimental statically-typed
+  compiled language made with LLVM and Rust
+- [**irvm**](https://github.com/edg-l/irvm): IR compiler target with a Rust-native
+  API that lowers to LLVM IR
+- [**rysk**](https://github.com/edg-l/rysk): RISC-V (RV64G) emulator
+- [**homura**](https://github.com/edg-l/homura): Rust ML inference framework built
+  on MLIR
+- [**paypal-rs**](https://github.com/edg-l/paypal-rs): Async, strongly typed Rust
+  wrapper for the PayPal API. Published crate with real users
+- [**sitewriter**](https://github.com/edg-l/sitewriter): Rust library to generate
+  sitemaps
+- [**ddnet**](https://github.com/ddnet/ddnet): DDraceNetwork, a free cooperative
+  platformer game. Contributor
 
 ## Blog
 
