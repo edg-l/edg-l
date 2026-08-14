@@ -1,7 +1,5 @@
 Rust systems engineer near Barcelona, Spain. Worked on Ethereum execution clients, compilers and more low level code. Open to Rust roles
 
-Software developer based near Barcelona. I work on kernels, compilers, and others, mostly in Rust.
-
 ## Side Projects
 
 - [**edos**](https://github.com/edg-l/edos): Hobby x86_64 operating system written from scratch in Rust, with an SMP kernel, its own filesystem, TCP/IP and USB stacks, and a window manager ([edos.edgl.dev](https://edos.edgl.dev))
