@@ -1,4 +1,4 @@
-> Now i am become Rust, Destroyer of Unsafe code
+Rust systems engineer near Barcelona, Spain. Worked on Ethereum execution clients, compilers and more low level code. Open to Rust roles
 
 Software developer based near Barcelona. I work on kernels, compilers, and others, mostly in Rust.
 
