@@ -6,7 +6,7 @@ Open to Rust roles.
 ## Work
 
 - [**ethrex**](https://github.com/lambdaclass/ethrex) - Ethereum execution client
-  in Rust. *LambdaClass, 2025-2026.* Implemented EIP-7928 block-level access
+  in Rust. Implemented EIP-7928 block-level access
   lists end to end: spec, peer exchange over `eth/71`, parallel execution and
   metrics. Shipped Glamsterdam and Hegotá fork support, tested on cross-client
   devnets. Most of my time went to performance on LEVM and the state layer:
@@ -14,9 +14,9 @@ Open to Rust roles.
   [Writeup](https://edgl.dev/blog/bal-in-ethrex/)
 - [**cairo_native**](https://github.com/starkware-libs/cairo_native) - Compiler
   from Cairo's Sierra IR to MLIR, for Starknet contracts. *LambdaClass,
-  2022-2025.* Built it; it replaced the existing interpreter.
+  2022-2025.*
 - [**concrete**](https://github.com/lambdaclass/concrete) - Systems language
-  built on LLVM and MLIR. *LambdaClass.*
+  built on LLVM and MLIR.
 
 ## Maintaining
 
